@@ -11,7 +11,7 @@
 
 # 1. ACESSO E AUTENTICAÇÃO
 
-**Passo 01:** Acesse o portal de compras do governo federal: [https://www.compras.gov.br](https://www.compras.gov.br).
+**Passo 01:** Acesse o Portal de compras do governo federal: [https://www.compras.gov.br](https://www.compras.gov.br).
 
 **Passo 02:** No canto superior esquerdo, localize o ícone com três linhas.
 
