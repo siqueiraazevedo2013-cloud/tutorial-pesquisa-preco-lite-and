@@ -1,0 +1,25 @@
+site_name: Documentação - Pesquisa de Preços Lite
+
+theme:
+  name: readthedocs
+
+markdown_extensions:
+  - md_in_html
+  - admonition
+
+nav:
+  - Início: index.md
+  - 1. Acesso e Autenticação: 01-acesso-autenticacao.md
+  - 2. Nova Pesquisa e Adição de Itens: 02-nova-pesquisa.md
+  - 3. Edição e Gestão de Cotações: 03-edicao-gestao.md
+  - 4. Resumo e Relatórios: 04-resumo-relatorios.md
+  - 🖨️ Versão Completa para Impressão: manual-completo.md
+
+# Configuração dos estilos e scripts customizados
+extra_css:
+  - custom.css
+  - css/extra.css
+
+extra_javascript:
+  - js/custom.js
+  - js/font-size.js
