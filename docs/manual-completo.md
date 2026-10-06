@@ -102,3 +102,38 @@ Além disso, é possível detalhar as informações a respeito das compras. Ao e
     *   Na coluna **Ações**, o ícone de lixeira exclui o registro da lista do item.
 
 <br>
+
+# 4. RESUMO E RELATÓRIOS
+
+**Passo 15:** Após preencher os campos obrigatórios de identificação e escolher as cotações que farão parte da sua pesquisa, clique na aba "Resumo".
+
+![Tela Resumo](Imagens/PPLite-6.png)
+
+Na página de Resumo será possível realizar as seguintes ações:
+
+*   **Baixar e salvar o Relatório resumido:** Para gerar o relatório resumido da pesquisa realizada em PDF, clique no botão "Resumido".
+*   **Baixar e salvar o Relatório Detalhado:** O relatório apresentará a média e a mediana dos últimos 12 meses, calculadas a partir das compras homologadas de todos os itens da consulta, junto com os dados de cada item. Clique no botão "Detalhado" para gerar.
+
+![Tela Relatório Detalhado](Imagens/PPLite-7.png)
+
+*   **Exportar os dados obtidos:** Caso prefira extrair os dados e salvá-los em formato editável no seu computador, clique em "Exportar CSV" no canto superior direito.
+*   **Salvar a pesquisa na sua conta:** Para armazenar a consulta e acessá-la posteriormente, clique no botão "Salvar Pesquisa". Se você já realizou o login Gov.br no início, o sistema confirmará o salvamento imediatamente. Caso ainda não tenha feito login, abrirá a tela de autenticação do Gov.br para vincular a pesquisa ao seu perfil.
+
+![Tela Salvar Pesquisa](Imagens/PPLite-6A.png)
+
+!!! warning "Atenção"
+    Ao clicar no botão "Home" ou em "Voltar" sem estar autenticado via Gov.br ou sem salvar a pesquisa, o sistema encerrará a consulta e os dados não ficarão salvos. 
+    
+    Para garantir que o seu trabalho não seja perdido e possa ser recuperado a qualquer momento, utilize o botão "Salvar Pesquisa" com o login Gov.br antes de sair.
+    
+    ![Tela Alerta Voltar](Imagens/PPLite-8.png)
+
+**Suporte:** Caso tenha dúvidas ou precise de suporte, a Central de Atendimento do Ministério da Gestão e da Inovação em Serviços Públicos (MGI) está disponível pelo Portal de Serviços ou pelo telefone 0800 978 9001, de segunda a sexta-feira, das 8h às 18h.
+
+<br>
+<div style="text-align: right; margin: 10px 0;">
+  <button onclick="window.print()" style="background-color: #0056b3; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
+  🖨️ Imprimir ou baixar esta página
+  </button>
+</div>
+
